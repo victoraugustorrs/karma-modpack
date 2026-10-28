@@ -1,0 +1,64 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "modpackName": "KARMA",
+  "releaseNotes": "Versao inicial da KARMA Modpack.",
+  "files": [
+    {
+      "id": "combat",
+      "name": "Combat.steinmod",
+      "destPath": "mods/Combat.steinmod",
+      "url": "https://github.com/victoraugustorrs/karma-modpack/releases/download/v1.0.0/Combat.steinmod",
+      "sha256": "8896297f94a631c3bf5488807c5e616bdc4f198db0e758495bca6964bf94394f",
+      "required": true
+    },
+    {
+      "id": "hud",
+      "name": "HUD.steinmod",
+      "destPath": "mods/HUD.steinmod",
+      "url": "https://github.com/victoraugustorrs/karma-modpack/releases/download/v1.0.0/HUD.steinmod",
+      "sha256": "bd5ea332907431bc0397c456683285351f61d95ef48c10476082d0c7a30353dd",
+      "required": true
+    },
+    {
+      "id": "connect",
+      "name": "Connect.steinmod",
+      "destPath": "mods/Connect.steinmod",
+      "url": "https://github.com/victoraugustorrs/karma-modpack/releases/download/v1.0.0/Connect.steinmod",
+      "sha256": "9cf320fd73ad816ad2c8cf1ec91e1093f1618bc2feaef35715b8fd62960751c1",
+      "required": true
+    },
+    {
+      "id": "macros",
+      "name": "Macros.steinmod",
+      "destPath": "mods/Macros.steinmod",
+      "url": "https://github.com/victoraugustorrs/karma-modpack/releases/download/v1.0.0/Macros.steinmod",
+      "sha256": "7350de292c4a3d547b80cb28438f3fe6a58d289f8ef2936ba76db28469b917f6",
+      "required": true
+    },
+    {
+      "id": "mouse",
+      "name": "Mouse.steinmod",
+      "destPath": "mods/Mouse.steinmod",
+      "url": "https://github.com/victoraugustorrs/karma-modpack/releases/download/v1.0.0/Mouse.steinmod",
+      "sha256": "f0de0cdbddac496b5b1882bcec68204ea3c46e3eb1f98b74d504d0a463428a01",
+      "required": true
+    },
+    {
+      "id": "conexaofix",
+      "name": "ConexaoFix.steinmod",
+      "destPath": "mods/ConexaoFix.steinmod",
+      "url": "https://github.com/victoraugustorrs/karma-modpack/releases/download/v1.0.0/ConexaoFix.steinmod",
+      "sha256": "b3f1e8b0c016e1eeb70fa580a584f76712bbb6cf06ac8acc0b623984e224257d",
+      "required": true
+    },
+    {
+      "id": "infoalvo",
+      "name": "InfoAlvo.steinmod",
+      "destPath": "mods/InfoAlvo.steinmod",
+      "url": "https://github.com/victoraugustorrs/karma-modpack/releases/download/v1.0.0/InfoAlvo.steinmod",
+      "sha256": "11c3494d5b1d4f7529d2f1b581b195d13dd991057053f868cfdae11834ea2536",
+      "required": true
+    }
+  ]
+}
